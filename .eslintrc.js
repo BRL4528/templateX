@@ -2,6 +2,7 @@ module.exports = {
   env: {
       browser: true,
       es6: true
+    aDu7Q~POD3OaONCI01evv7QfvQNp6~gRW-M0G
   },
   extends: [
       'prettier/react',
